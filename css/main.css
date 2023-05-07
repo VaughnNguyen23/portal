@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hahmlet&display=swap');
 
 html {
-    background-color:lightgreen;
+    background-color: #e8dfe0;
     font-family: 'Hahmlet', serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -19,7 +19,7 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #dab692;
     line-height: 2.5em;
 }
 
@@ -49,13 +49,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color: #8f5b34;
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: #8d9b6a;
     text-decoration: none;
 }
 
